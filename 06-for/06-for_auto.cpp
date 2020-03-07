@@ -6,8 +6,8 @@ int main(){
   vector<int> v{2,3,5,7};
 
   size_t s = v.size();
-  for(size_t i = 0; i < s; i++){
-    cout << v[i] << ",";
+  for(auto x : v){
+    cout << x << ",";
   }
   cout << endl;
 }
