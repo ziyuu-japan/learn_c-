@@ -1,0 +1,7 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+intmain(){
+cout<<"いつも"<<252<<endl;
+cout<<"AtCoderくん"<<endl;
+}

@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-  cout << 1./2. * 100 * (100 + 1) << endl;
-}
+  int m;
+  cin >> m;
 
+  cout << 24 + 24 - m << endl;
+}
